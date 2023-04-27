@@ -1,6 +1,6 @@
 ## Chess System Java
 
-Este repositório contém o código-fonte de um sistema de xadrez implementado em Java que foi desenvolvido no curso de java do professor Nélio Alves.
+Este repositório contém o código-fonte de um sistema de xadrez implementado em Java que foi desenvolvido no curso de java do professor [Nélio Alves](https://github.com/acenelio) pela plataforma [Udemy](https://www.udemy.com/course/java-curso-completo/).
 
 ## Funcionalidades
 **O sistema possui as seguintes funcionalidades:**
@@ -11,8 +11,6 @@ Este repositório contém o código-fonte de um sistema de xadrez implementado e
 
 - Possibilidade de jogar partida contra outra pessoa no mesmo computador
 
-- Possibilidade de jogar partida contra um computador com diferentes níveis de dificuldade
-
 - Possibilidade de desfazer movimentos
 
 ## Como executar
@@ -20,7 +18,8 @@ Este repositório contém o código-fonte de um sistema de xadrez implementado e
 Para executar o sistema, é necessário ter o Java Development Kit (JDK) instalado. Em seguida, basta executar o arquivo **Main.java** localizado na pasta **src/application.**
 
 ## Estrutura do projeto
-O projeto é divido em quatro pacotes principais:
+
+**O projeto é divido em quatro pacotes principais:**
 
 **application:** contém a classe Main, responsável por iniciar o sistema
 
